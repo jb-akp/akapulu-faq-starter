@@ -5,7 +5,7 @@ A reusable agent skill that reads your website, prepares source-backed knowledge
 ## Quick start (GitHub)
 
 1. Clone or download this repository: `git clone https://github.com/jb-akp/akapulu-faq-starter.git` (or **Code → Download ZIP** and extract it).
-2. Open the `akapulu-faq-starter` folder as a project in Codex, Claude Code, or Cursor. You need a coding agent that can read files, run Python and open public web pages.
+2. Open the folder (`akapulu-faq-starter`, or `akapulu-faq-starter-main` from the ZIP) as a project in Codex, Claude Code, or Cursor. You need a coding agent that can read files, run Python and open public web pages.
 3. Follow **Start here** below: install the skill, add your Akapulu key to the local `.env` (never in chat, website code or a recording), prepare and review the facts from your website, then create the assistant.
 
 This starter creates a **hosted Akapulu call link** your site can open with a normal button. It is not an embedded SDK widget, and it adds no server, tunnel, screen access or action tools.
@@ -21,7 +21,7 @@ Your coding agent and Akapulu have their own usage costs and limits. Choose a li
 
 ## Start here
 
-1. Download and extract the starter ZIP. Open the extracted `akapulu-faq-starter` folder in your coding agent. That folder can be your new project; you do not have to copy hidden folders by hand.
+1. Download and extract the starter ZIP (from GitHub it unzips as `akapulu-faq-starter-main`). Open the extracted folder in your coding agent. That folder can be your new project; you do not have to copy hidden folders by hand.
 2. Paste this, replacing the agent name with **Codex**, **Claude Code**, or **Cursor**:
 
 > Read README.md and inspect install.py in this starter. I am using [AGENT NAME]. Check for Python 3.10 or newer, then run install.py for this project with the matching --agent option. Preserve existing instructions, skills and credentials. Do not create live resources yet. Tell me where to add my Akapulu API key locally, without asking me to paste the key into chat.
