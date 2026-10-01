@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+deployment.json
+__pycache__/
+*.pyc
+.DS_Store
+akapulu/deployment.json
+*.mov
+*.mp4

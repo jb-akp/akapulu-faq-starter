@@ -1,0 +1,94 @@
+{
+  "entries": [
+    {
+      "text": "Clearbrief is a fictional demonstration. Pricing and policies above are sample data, not Akapulu Labs pricing or policies.",
+      "quote": "Clearbrief is a fictional demonstration. Pricing and policies above are sample data, not Akapulu Labs pricing or policies.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Clearbrief lets creative teams share work with clients, collect comments, and track approvals in one place.",
+      "quote": "Clearbrief lets creative teams share work with clients, collect comments, and track approvals in one place.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "The Solo plan costs $19 per month and includes one team member and five active projects.",
+      "quote": "The Solo plan costs $19 per month and includes one team member and five active projects.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "The Team plan costs $49 per month and includes five team members and twenty active projects.",
+      "quote": "The Team plan costs $49 per month and includes five team members and twenty active projects.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Both plans include unlimited client reviewers. Client reviewers can comment and approve work; they are not team members.",
+      "quote": "Both plans include unlimited client reviewers. Client reviewers can comment and approve work; they are not team members.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Plans are billed monthly. Annual billing is not available.",
+      "quote": "Plans are billed monthly. Annual billing is not available.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Can I try it first?",
+      "quote": "Can I try it first?",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Both plans offer a 14-day trial. A credit card is not required to start the trial.",
+      "quote": "Both plans offer a 14-day trial. A credit card is not required to start the trial.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "How do I get started?",
+      "quote": "How do I get started?",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Create a workspace, add a project, and share a review link with your client. Client reviewers do not need an account.",
+      "quote": "Create a workspace, add a project, and share a review link with your client. Client reviewers do not need an account.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Will my clients count toward the team limit?",
+      "quote": "Will my clients count toward the team limit?",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Team members create and manage projects. Client reviewers only comment and approve work, and do not count toward the team-member limit.",
+      "quote": "Team members create and manage projects. Client reviewers only comment and approve work, and do not count toward the team-member limit.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Can I cancel?",
+      "quote": "Can I cancel?",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "You can cancel from workspace settings. Access continues until the end of the current paid billing period.",
+      "quote": "You can cancel from workspace settings. Access continues until the end of the current paid billing period.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "What if I need more than five team members?",
+      "quote": "What if I need more than five team members?",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "For more than five team members, ask the Clearbrief team about your requirements. This website does not publish pricing for larger teams.",
+      "quote": "For more than five team members, ask the Clearbrief team about your requirements. This website does not publish pricing for larger teams.",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "Can I bring over my old projects?",
+      "quote": "Can I bring over my old projects?",
+      "source": "sources/home.json"
+    },
+    {
+      "text": "You can upload PDF and PNG files to a project. Automatic migration from another project-management service is not available.",
+      "quote": "You can upload PDF and PNG files to a project. Automatic migration from another project-management service is not available.",
+      "source": "sources/home.json"
+    }
+  ]
+}
